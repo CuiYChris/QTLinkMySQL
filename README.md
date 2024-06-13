@@ -19,7 +19,7 @@ Then you can create a MySQL database through Navicat. In the database, you need 
 
 ![Table](Images/TableFig.png)
 
-Finally, you need to modify mainwidget.cpp to your own local host IP, port number, database name, username and password.
+Finally, you need to modify `mainwidget.cpp` to your own local host IP, port number, database name, username and password.
 
 
 
