@@ -1,6 +1,5 @@
 # QTLinkMySQL
 A rookie's QT project which connects to MySQL database.
-
 Everyone can try it as their own entry project！
 
 ## Introduction
