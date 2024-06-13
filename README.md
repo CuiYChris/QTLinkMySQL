@@ -9,4 +9,7 @@ Qt is a free and open-source widget toolkit for creating graphical user interfac
 C++ can perform both procedural programming in C, object-based programming featuring abstract data types, and object-oriented programming featuring inheritance and polymorphism. C++ is good at object-oriented programming, but it can also perform procedural programming. C++ can create almost any type of program: games, device drivers, HPC, cloud, desktop, embedded and mobile applications, etc. Even libraries and compilers for other programming languages ​​are written in C++.
 
 ## Setup
+Is the environment configuration important? Not important!
+
+Hahahaha, just kidding, the following is my configuration.
 
