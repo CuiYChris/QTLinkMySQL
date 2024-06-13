@@ -13,3 +13,6 @@ Is the environment configuration important? Not important!
 
 Hahahaha, just kidding, the following is my configuration.
 
+QT Creater 13.0.1 based on Qt 6.6.3(MSVC 2019, x86_64)
+
+First, you need to detect the bit rate of your Windows operating system, and then download the ODBC driver. My operating system is 64-bit.
