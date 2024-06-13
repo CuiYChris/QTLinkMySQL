@@ -16,6 +16,7 @@ QT Creater 13.0.1 based on Qt 6.6.3(MSVC 2019, x86_64)
 First, you need to detect the bit rate of your Windows operating system, and then download the ODBC driver. My operating system is 64-bit. Download and install it according to your system in `ODBC Driver` folder.
 
 Then you can create a MySQL database through Navicat. In the database, you need to create a table, similar to the following:
+
 ![Table](Images/TableFig.png)
 
 Finally, you need to modify mainwidget.cpp to your own local host IP, port number, database name, username and password.
