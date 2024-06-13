@@ -17,7 +17,7 @@ First, you need to detect the bit rate of your Windows operating system, and the
 
 Then you can create a MySQL database through Navicat. In the database, you need to create a table, similar to the following:
 
-![Table](images/TableFig.png)
+![Table](Images/TableFig.png)
 
 
 
