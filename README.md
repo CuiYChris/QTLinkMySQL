@@ -21,5 +21,6 @@ Then you can create a MySQL database through Navicat. In the database, you need 
 
 Finally, you need to modify `mainwidget.cpp` to your own local host IP, port number, database name, username and password.
 
-
+## End
+Finally, this is a very simple QT project. I am preparing a more complex student system that uses a MySQL database. Stay tuned!
 
